@@ -58,7 +58,7 @@ app.post('/nodeflux', async (req, res) => {
 
 // Start the Proxy
 app.listen(process.env.PORT || 4000, () => {
-    console.log(`Starting Proxy, hopefully it works`);
+    console.log(`Starting Proxy, hopefully it workss`);
  });
  
 
