@@ -13,6 +13,6 @@
     "nodemon": "^2.0.16"
   },
   "scripts": {
-    "start": "node proxyServer.js"
+    "start": "node backend.js"
   }
 }
